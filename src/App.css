@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+}
+
+.tombol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kotak{
+  padding: 10px;
+  margin: 10px 20px;
+  width: 100px;
+  background-color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
